@@ -1,0 +1,7 @@
+C:\Personal\VsCodeOnline\.NET\Projetos_Intermediários\Plataforma_Construcao\ConstruTech\ConstruTech\obj\Debug\ConstruTech.csprojAssemblyReference.cache
+C:\Personal\VsCodeOnline\.NET\Projetos_Intermediários\Plataforma_Construcao\ConstruTech\ConstruTech\obj\Debug\ConstruTech.csproj.CoreCompileInputs.cache
+C:\Personal\VsCodeOnline\.NET\Projetos_Intermediários\Plataforma_Construcao\ConstruTech\ConstruTech\bin\Debug\ConstruTech.exe.config
+C:\Personal\VsCodeOnline\.NET\Projetos_Intermediários\Plataforma_Construcao\ConstruTech\ConstruTech\bin\Debug\ConstruTech.exe
+C:\Personal\VsCodeOnline\.NET\Projetos_Intermediários\Plataforma_Construcao\ConstruTech\ConstruTech\bin\Debug\ConstruTech.pdb
+C:\Personal\VsCodeOnline\.NET\Projetos_Intermediários\Plataforma_Construcao\ConstruTech\ConstruTech\obj\Debug\ConstruTech.exe
+C:\Personal\VsCodeOnline\.NET\Projetos_Intermediários\Plataforma_Construcao\ConstruTech\ConstruTech\obj\Debug\ConstruTech.pdb
